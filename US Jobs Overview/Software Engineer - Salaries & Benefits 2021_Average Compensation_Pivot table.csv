@@ -1,0 +1,136 @@
+﻿Company,Profession,Record Count,Total_comp,Base_salary,Stocks,Bonus (sign-on)
+Uber,Software Engineer,386,200000,148000,37000,16000
+Microsoft,Software Engineer,1964,193000,140000,30000,15000
+Facebook,Software Engineer,1131,195000,141000,30000,15000
+Pinterest,Software Engineer,74,212000,150000,44000,19000
+Amazon,Software Engineer,2677,193000,143000,31000,15000
+Capital One,Software Engineer,250,185000,140000,27000,16000
+Asana,Software Engineer,13,140000,110000,1000,5000
+Splunk,Software Engineer,74,191000,142000,25000,15000
+Accenture,Software Engineer,52,191000,135000,25000,16000
+Bloomberg,Software Engineer,241,187000,140000,25000,14000
+Cisco,Software Engineer,355,200019,147000,35000,17000
+Deloitte,Software Engineer,23,135000,125000,10000,7000
+DoorDash,Software Engineer,39,195000,150000,30000,15000
+eBay,Software Engineer,159,190000,140000,28000,15000
+Google,Software Engineer,1745,195000,140000,30000,15000
+Intel,Software Engineer,248,195000,140000,30000,16000
+Nike,Software Engineer,22,167000,126000,34000,18000
+NVIDIA,Software Engineer,122,208000,150000,26000,15000
+Oracle,Software Engineer,401,195000,140000,30000,15000
+PayPal,Software Engineer,159,200000,144000,38000,14000
+Roblox,Software Engineer,19,150000,123000,20000,12000
+Salesforce,Software Engineer,470,195000,145000,30000,17000
+SAP,Software Engineer,135,193000,145000,33000,16000
+Visa,Software Engineer,67,215000,153000,30000,14000
+VMware,Software Engineer,253,193000,140000,37000,15000
+WeWork,Software Engineer,46,185000,132000,27000,8000
+The Walt Disney Company,Software Engineer,32,165000,130000,36000,15000
+Adobe,Software Engineer,123,181000,135000,30000,15000
+Booz Allen Hamilton,Software Engineer,15,179000,150000,20000,13000
+Waymo,Software Engineer,8,190000,148000,14000,17000
+AMD,Software Engineer,18,200000,143000,30000,13000
+Expedia,Software Engineer,121,175000,135000,22000,15000
+IBM,Software Engineer,300,183000,137000,27000,15000
+JP Morgan Chase,Software Engineer,171,180000,139000,24000,15000
+LinkedIn,Software Engineer,333,190000,140000,29000,16000
+Mozilla,Software Engineer,29,177000,131000,25000,13000
+Qualcomm,Software Engineer,235,190000,140000,30000,15000
+Red Hat,Software Engineer,20,150000,128000,25000,15000
+Snap,Software Engineer,103,210000,140000,45000,15000
+UBS,Software Engineer,9,197000,150000,37000,10000
+Verizon,Software Engineer,29,183000,133000,32000,10000
+Booking.com,Software Engineer,44,190000,136000,30000,15000
+Groupon,Software Engineer,38,172000,140000,25000,20000
+Atlassian,Software Engineer,82,195000,145000,25000,17000
+ByteDance,Software Engineer,41,189000,132000,40000,17000
+Dell,Software Engineer,66,197000,141000,40000,15000
+Dropbox,Software Engineer,114,205000,150000,35000,20000
+Goldman Sachs,Software Engineer,156,184000,137000,20000,15000
+Intuit,Software Engineer,161,190000,142000,30000,15000
+Palantir,Software Engineer,33,168000,130000,21000,15000
+SquareSpace,Software Engineer,32,207000,150000,40000,15000
+Tata Consultancy Services,Software Engineer,11,160000,130000,5000,9000
+Twilio,Software Engineer,48,193000,140000,30000,19000
+Wayfair,Software Engineer,106,181000,143000,30000,13000
+Workday,Software Engineer,93,205000,145000,32000,16000
+Yandex,Software Engineer,79,195000,137000,35000,15000
+Lockheed Martin,Software Engineer,35,222000,140000,40000,17000
+Morgan Stanley,Software Engineer,34,225000,160000,50000,16000
+Netflix,Software Engineer,99,220000,150000,40000,14000
+ServiceNow,Software Engineer,61,179000,140000,25000,12000
+Zoox,Software Engineer,10,225000,139000,42000,9000
+Airbnb,Software Engineer,119,225000,155000,40000,18000
+Alibaba,Software Engineer,11,163000,128000,16000,10000
+Autodesk,Software Engineer,40,220000,148000,30000,16000
+Bank of America,Software Engineer,38,210000,145000,37000,19000
+Barclays,Software Engineer,27,163000,128000,25000,11000
+Blizzard Entertainment,Software Engineer,24,142000,125000,0,12000
+Databricks,Software Engineer,12,198000,136000,50000,20000
+HP,Software Engineer,40,200000,149000,30000,20000
+Instacart,Software Engineer,31,200000,143000,20000,15000
+MathWorks,Software Engineer,28,187000,133000,25000,15000
+Qualtrics,Software Engineer,51,172000,132000,25000,15000
+Samsung,Software Engineer,32,210000,154000,45000,20000
+T-Mobile,Software Engineer,50,180000,134000,25000,15000
+Twitter,Software Engineer,131,204000,148000,32000,16000
+Walmart Labs,Software Engineer,109,195017,140000,36000,15000
+Square,Software Engineer,62,208000,145000,37000,17000
+Zillow,Software Engineer,69,210000,151000,36000,20000
+Tableau Software,Software Engineer,51,174000,130000,25000,15000
+Spotify,Software Engineer,49,200000,144000,40000,15000
+Box,Software Engineer,39,190000,140000,25000,17000
+Stripe,Software Engineer,68,200000,148000,30000,16000
+Sony,Software Engineer,12,177000,145000,20000,8000
+Audible,Software Engineer,16,210000,157000,55000,18000
+Citi,Software Engineer,21,175000,140000,10000,14000
+TripAdvisor,Software Engineer,20,169000,140000,29000,6000
+HubSpot,Software Engineer,33,177000,134000,30000,17000
+NetApp,Software Engineer,42,200000,150000,35000,15000
+Grab,Software Engineer,19,156000,134000,20000,14000
+Slack,Software Engineer,34,208000,150000,47000,12000
+Yelp,Software Engineer,101,184000,135000,30000,15000
+DocuSign,Software Engineer,23,255000,160000,37000,16000
+Electronic Arts,Software Engineer,19,185000,135000,36000,15000
+Raytheon,Software Engineer,35,188000,132000,29000,18000
+Vimeo,Software Engineer,6,145000,120000,3000,10000
+Hulu,Software Engineer,18,285000,170000,75000,10000
+Robinhood,Software Engineer,22,200000,150000,35000,15000
+Western Digital,Software Engineer,9,209000,155000,31000,12000
+Mastercard,Software Engineer,18,241000,145000,50000,21000
+SpaceX,Software Engineer,5,184000,140000,15000,5000
+Indeed,Software Engineer,47,193000,140000,34000,15000
+Tinder,Software Engineer,9,167000,140000,17000,13000
+Schlumberger,Software Engineer,4,228000,145000,49000,34000
+Huawei,Software Engineer,4,183000,133000,20000,30000
+Unity Technologies,Software Engineer,5,210000,150000,45000,27000
+BlackRock,Software Engineer,15,210000,140000,40000,13000
+Roku,Software Engineer,13,185000,130000,20000,10000
+Shopify,Software Engineer,47,203000,136000,48000,14000
+KPMG,Software Engineer,4,161000,129000,20000,18000
+Zendesk,Software Engineer,17,215000,158000,36000,20000
+UiPath,Software Engineer,8,310000,160000,100000,25000
+Infosys,Software Engineer,7,192000,143000,38000,5000
+Capgemini,Software Engineer,12,177000,140000,20000,18000
+Postmates,Software Engineer,10,176000,140000,22000,13000
+Magic Leap,Software Engineer,2,207000,161000,22000,24000
+Reddit,Software Engineer,13,248000,176000,55000,18000
+Twitch,Software Engineer,13,208000,160000,38000,16000
+Quora,Software Engineer,9,280000,170000,77000,18000
+Udemy,Software Engineer,5,197000,150000,32000,18000
+Peloton,Software Engineer,4,135000,118000,6000,11000
+PwC,Software Engineer,4,239000,152000,63000,16000
+Wish,Software Engineer,8,185000,137000,25000,30000
+Ubisoft,Software Engineer,2,310000,152000,128000,30000
+EY,Software Engineer,4,246000,177000,47000,30000
+Cognizant,Software Engineer,4,340000,155000,55000,37000
+BCG Digital Ventures,Software Engineer,4,200000,170000,4000,30000
+Amazon Web Services (AWS),Software Engineer,3,176000,170000,64000,0
+SurveyMonkey,Software Engineer,5,212000,166000,27000,5000
+McKinsey & Company,Software Engineer,3,236000,180000,25000,28000
+Bain,Software Engineer,1,210000,145000,65000,0
+Blue Origin,Software Engineer,2,277000,187000,70000,27000
+Tesla,Software Engineer,52,193000,136000,27000,15000
+Lyft,Software Engineer,154,198000,144000,34000,18000
+Yahoo,Software Engineer,104,188000,140000,30000,14000
+Apple,Software Engineer,716,192000,144000,30000,15000

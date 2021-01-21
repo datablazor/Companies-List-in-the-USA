@@ -1,0 +1,111 @@
+﻿Company,Profession,Record Count,Total_comp,Base_salary,Stocks,Bonus (sign-on)
+Uber,Product Manager,53,202000,150000,40000,16000
+Microsoft,Product Manager,362,225000,154000,40000,20000
+Facebook,Product Manager,104,230000,160000,50000,20000
+Amazon,Product Manager,463,225000,155000,47000,20000
+Expedia,Product Manager,19,253000,185000,45000,35000
+IBM,Product Manager,30,213000,155000,30000,20000
+Google,Product Manager,150,231000,156000,46000,21000
+Oracle,Product Manager,35,225000,155000,40000,24000
+Cisco,Product Manager,31,221000,154000,50000,14000
+Salesforce,Product Manager,56,223000,160000,30000,22000
+The Walt Disney Company,Product Manager,14,205000,153000,40000,20000
+WeWork,Product Manager,6,200000,138000,65000,15000
+Booking.com,Product Manager,9,195000,153000,25000,15000
+Dropbox,Product Manager,12,253000,168000,50000,25000
+Huawei,Product Manager,1,100000,70000,15000,15000
+Indeed,Product Manager,8,231000,165000,38000,40000
+Intel,Product Manager,12,195000,140000,50000,13000
+ServiceNow,Product Manager,4,372000,200000,110000,44000
+SpaceX,Product Manager,1,100000,60000,20000,20000
+Stripe,Product Manager,2,193000,133000,70000,40000
+JP Morgan Chase,Product Manager,5,150000,131000,0,19000
+DocuSign,Product Manager,5,181000,131000,45000,20000
+Splunk,Product Manager,8,182000,145000,20000,10000
+Airbnb,Product Manager,9,220000,160000,36000,19000
+Bank of America,Product Manager,4,225000,152000,70000,48000
+PayPal,Product Manager,16,240000,160000,35000,17000
+Deloitte,Product Manager,3,113000,100000,8000,10000
+Netflix,Product Manager,7,181000,130000,30000,16000
+Workday,Product Manager,20,205000,145000,40000,15000
+Blue Origin,Product Manager,2,68000,63000,18000,8000
+TripAdvisor,Product Manager,4,185000,148000,20000,27000
+Wayfair,Product Manager,29,250000,160000,60000,24000
+eBay,Product Manager,20,230000,175000,54000,15000
+Pinterest,Product Manager,3,211000,151000,60000,0
+Red Hat,Product Manager,2,160000,140000,20000,0
+Walmart Labs,Product Manager,22,210000,159000,50000,13000
+Intuit,Product Manager,28,300000,160000,81000,27000
+SquareSpace,Product Manager,1,35000,35000,0,0
+VMware,Product Manager,9,220000,149000,50000,2000
+NVIDIA,Product Manager,2,320000,190000,100000,30000
+Twitter,Product Manager,15,215000,160000,40000,24000
+Dell,Product Manager,6,235000,173000,50000,20000
+Samsung,Product Manager,16,225000,150000,35000,20000
+SAP,Product Manager,13,270000,160000,45000,36000
+Snap,Product Manager,7,210000,155000,37000,30000
+Zillow,Product Manager,6,175000,145000,20000,13000
+BCG Digital Ventures,Product Manager,7,179000,155000,20000,22000
+Capital One,Product Manager,21,185000,150000,35000,15000
+Square,Product Manager,3,140000,140000,3000,8000
+Yelp,Product Manager,6,203000,160000,22000,4000
+LinkedIn,Product Manager,21,220000,162000,45000,21000
+Groupon,Product Manager,9,214000,150000,38000,29000
+Box,Product Manager,7,240000,176000,34000,20000
+Adobe,Product Manager,16,260000,180000,48000,30000
+ByteDance,Product Manager,2,145000,120000,5000,20000
+EY,Product Manager,4,230000,155000,40000,25000
+Palantir,Product Manager,2,215000,175000,25000,30000
+Electronic Arts,Product Manager,3,158000,157000,20000,20000
+Vimeo,Product Manager,2,225000,130000,95000,24000
+Visa,Product Manager,7,238000,165000,30000,20000
+Postmates,Product Manager,4,254000,160000,85000,4000
+Accenture,Product Manager,5,200000,150000,30000,22000
+UiPath,Product Manager,2,212000,144000,43000,60000
+DoorDash,Product Manager,3,230000,200000,45000,30000
+Goldman Sachs,Product Manager,5,233000,151000,55000,28000
+BlackRock,Product Manager,2,518000,223000,250000,45000
+Quora,Product Manager,1,240000,165000,35000,40000
+Sony,Product Manager,2,200000,200000,60000,0
+Cognizant,Product Manager,2,340000,234000,70000,46000
+Tata Consultancy Services,Product Manager,1,215000,155000,45000,15000
+Magic Leap,Product Manager,1,276000,171000,80000,25000
+T-Mobile,Product Manager,10,255000,160000,75000,16000
+UBS,Product Manager,2,500000,250000,250000,20000
+Bloomberg,Product Manager,5,216000,144000,58000,13000
+HubSpot,Product Manager,4,328000,250000,40000,50000
+Peloton,Product Manager,1,749000,250000,437000,62000
+Qualcomm,Product Manager,6,330000,175000,96000,30000
+Citi,Product Manager,6,210000,149000,5000,40000
+Roku,Product Manager,3,183000,155000,12000,0
+Tableau Software,Product Manager,3,321000,160000,50000,30000
+Amazon Web Services (AWS),Product Manager,1,182000,162000,20000,0
+HP,Product Manager,3,237000,187000,50000,12000
+Nike,Product Manager,3,214000,145000,64000,0
+Twilio,Product Manager,2,574000,234000,240000,100000
+Hulu,Product Manager,2,420000,200000,260000,50000
+Spotify,Product Manager,5,240000,180000,50000,20000
+Capgemini,Product Manager,1,162000,140000,2000,20000
+Atlassian,Product Manager,3,391000,233000,115000,50000
+Autodesk,Product Manager,9,275000,187000,70000,27000
+Mastercard,Product Manager,3,237000,162000,24000,25000
+KPMG,Product Manager,1,174000,109000,40000,25000
+Audible,Product Manager,2,311000,188000,95000,28000
+Barclays,Product Manager,1,227000,145000,72000,10000
+PwC,Product Manager,1,190000,142000,13000,35000
+Twitch,Product Manager,3,270000,180000,80000,20000
+Alibaba,Product Manager,1,158000,134000,6000,18000
+Roblox,Product Manager,2,488000,230000,212000,46000
+Grab,Product Manager,1,223000,152000,30000,41000
+AMD,Product Manager,1,205000,160000,25000,20000
+Unity Technologies,Product Manager,1,171000,155000,0,16000
+Zendesk,Product Manager,3,325000,190000,150000,25000
+Mozilla,Product Manager,1,350000,160000,25000,165000
+Verizon,Product Manager,2,355000,200000,135000,35000
+Western Digital,Product Manager,1,500000,230000,212000,58000
+Shopify,Product Manager,1,360000,180000,100000,80000
+Yandex,Product Manager,1,400000,230000,170000,0
+Tesla,Product Manager,2,180000,140000,20000,20000
+Lyft,Product Manager,14,219000,151000,40000,20000
+Yahoo,Product Manager,7,145000,118000,0,15000
+Apple,Product Manager,37,220000,157000,30000,15000
