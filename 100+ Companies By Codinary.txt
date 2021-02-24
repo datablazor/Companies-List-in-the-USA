@@ -1,0 +1,221 @@
+Accolite  
+Adobe  
+Aetion  
+Affinity  
+Affirm  
+Airbnb  
+Airtel  
+Akamai  
+Akuna Capital  
+Alation  
+Alibaba  
+Amazon  
+American Express  
+Appdynamics  
+Apple  
+Arista Networks  
+Asana  
+Atlassian  
+Audible  
+
+Baidu  
+Barclays  
+Blackrock  
+Blizzard  
+Bloomberg  
+Bloomreach  
+Bookingcom  
+Box  
+Bytedance  
+Bytedancetoutiao  
+
+C3 Iot  
+C3Ai  
+Capital One  
+Cisco  
+Citadel  
+Citrix  
+Cloudera  
+Clutter  
+Codenation  
+Cohesity  
+Coupang  
+Coursera  
+Cruise Automation  
+
+Databricks  
+Dataminr  
+De Shaw  
+Deliveryhero  
+Dell  
+Deutsche Bank  
+Didi  
+Docusign  
+Doordash  
+Drawbridge  
+Dropbox  
+Druva  
+
+Ebay  
+Electronic Arts  
+Emc  
+Epic Systems  
+Evernote  
+Expedia  
+
+F5 Networks  
+Facebook  
+Factset  
+Fallible  
+Fidessa  
+Flexport  
+Flipkart  
+Forusall  
+
+Garena  
+Ge Digital  
+Gilt Groupe  
+Godaddy  
+Goldman Sachs  
+Google  
+Grab  
+Groupon  
+Gsn Games  
+
+Hbo  
+Helix  
+Honey  
+Hotstar  
+Houzz  
+Hrt  
+Huawei  
+Hulu  
+
+Ibm  
+Iit Bombay  
+Indeed  
+Infosys  
+Inmobi  
+Intel  
+Intuit  
+Ixl  
+
+Jane Street  
+Jingchi  
+Jp Morgan Chase  
+Jpmorgan  
+Jump Trading 
+
+Kakao  
+Karat  
+
+Leap Motion  
+Limebike  
+Linkedin  
+Liveramp  
+Lyft  
+
+Machine Zone  
+Machinezone  
+Maq Software  
+Mathworks  
+Mckinsey  
+Medianet  
+Meituan  
+Microsoft 
+Microstrategy  
+Morgan Stanley  
+
+National Instruments  
+Netease  
+Netflix  
+Netsuite  
+Nutanix  
+Nvidia  
+
+Opendoor  
+Oracle  
+
+Palantir  
+Palantir Technologies  
+Paypal  
+Paytm  
+Phonepe  
+Pinterest  
+Pocket Gems  
+Point72  
+Ponyai  
+Poshmark  
+Postmates  
+Poynt  
+Pramp  
+Pure Storage  
+
+Qualcomm  
+Qualtrics  
+Quantcast  
+Quip  
+Quora  
+
+Rackspace  
+Radius  
+Reddit  
+Redfin  
+Riot Games  
+Robinhood  
+Roblox  
+Rubrik  
+
+Salesforce  
+Samsung  
+Sap  
+Sapient  
+Servicenow  
+Snapchat  
+Snapdeal  
+Splunk  
+Spotify  
+Square  
+Sumologic  
+Symantec  
+
+Tableau  
+Tandemg  
+Tencent  
+Tesla  
+Thumbtack  
+Traveloka  
+Tripadvisor  
+Triplebyte  
+Turvo  
+Twilio  
+Twitch  
+Twitter  
+Two Sigma  
+
+Uber  
+Uipath  
+United Health Group  
+
+Valve  
+Virtu  
+Visa  
+Vmware  
+
+Walmart  
+Wayfair  
+Wish  
+Works Applications  
+
+Yahoo  
+Yandex  
+Yatra  
+Yelp  
+
+Zalando  
+Zappos  
+Zenefits  
+Zillow  
+Zoho  
+Zscaler  
+Zulily
